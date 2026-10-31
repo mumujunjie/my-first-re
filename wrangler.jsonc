@@ -1,7 +1,7 @@
 {
   // Worker 名称：会和 Workers 面板里的项目名一致，
   // 上线地址为 https://<名称>.<你的 workers.dev 子域>
-  "name": "my-first-re",
+  "name": "text",
 
   // 兼容日期：保持为创建项目的日期即可，不要写成未来日期
   "compatibility_date": "2026-10-31",
